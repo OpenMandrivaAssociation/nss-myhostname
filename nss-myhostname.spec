@@ -68,3 +68,10 @@ fi
 %doc README
 %doc LICENSE
 /%{_lib}/*
+
+
+%changelog
+* Fri Sep 23 2011 Tomasz Pawel Gajc <tpg@mandriva.org> 0.3-1mdv2012.0
++ Revision: 701120
+- import nss-myhostname
+
