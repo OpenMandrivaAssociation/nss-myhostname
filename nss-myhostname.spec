@@ -1,7 +1,7 @@
 Name:		nss-myhostname
 Summary:	glibc plugin for local system host name resolution
 Version:	0.3
-Release:	%mkrel 1
+Release:	THIS PACKAGE HAS BEEN MERGED INTO SYSTEMD
 License:	LGPLv2+
 Group:		System/Base
 URL:		http://0pointer.de/lennart/projects/nss-myhostname/
