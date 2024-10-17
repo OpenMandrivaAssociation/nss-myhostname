@@ -4,7 +4,7 @@ Version:	0.3
 Release:	THIS PACKAGE HAS BEEN MERGED INTO SYSTEMD
 License:	LGPLv2+
 Group:		System/Base
-URL:		http://0pointer.de/lennart/projects/nss-myhostname/
+URL:		https://0pointer.de/lennart/projects/nss-myhostname/
 Source0:	http://0pointer.de/lennart/projects/nss-myhostname/nss-myhostname-%{version}.tar.gz
 Requires(pre):	glibc
 Requires:	/bin/sh
